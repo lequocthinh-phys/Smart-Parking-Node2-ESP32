@@ -18,11 +18,11 @@
 
 ### Sơ đồ nguyên lý (Schematic)
 ![Sơ đồ đấu dây](schematic.png)
-*(Đảm bảo bạn đã upload file tên `schematic.png` lên cùng thư mục với file này)*
+<img width="1536" height="1024" alt="schematic" src="https://github.com/user-attachments/assets/286e826e-9d65-4646-9778-0134020619d7" />
 
 ### Mô hình sa bàn thực tế (Physical Model)
 ![Ảnh sa bàn](physical-model.jpg)
-*(Đảm bảo bạn đã upload file tên `physical-model.jpg` lên cùng thư mục với file này)*
+<img width="3409" height="1922" alt="Physical Model" src="https://github.com/user-attachments/assets/76665667-e059-43dd-b125-bc5c14bcfa9c" />
 
 ---
 
