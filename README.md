@@ -6,18 +6,15 @@
 ---
 
 ## 🎥 Video Demo Nguyên lý hoạt động
-[![Demo Hệ thống Bãi đỗ xe]
-
+https://youtu.be/MnDIvmBr6rg
 ---
 
 ## 🖼️ Hình ảnh thực tế & Sơ đồ đấu dây
 
 ### Sơ đồ nguyên lý (Schematic)
-![Sơ đồ đấu dây](schematic.png)
 <img width="1536" height="1024" alt="schematic" src="https://github.com/user-attachments/assets/286e826e-9d65-4646-9778-0134020619d7" />
 
 ### Mô hình sa bàn thực tế (Physical Model)
-![Ảnh sa bàn](physical-model.jpg)
 <img width="3409" height="1922" alt="Physical Model" src="https://github.com/user-attachments/assets/76665667-e059-43dd-b125-bc5c14bcfa9c" />
 
 ---
