@@ -6,11 +6,7 @@
 ---
 
 ## 🎥 Video Demo Nguyên lý hoạt động
-*Click vào ảnh dưới đây để xem video vận hành thực tế của hệ thống trên YouTube:*
-
-[![Demo Hệ thống Bãi đỗ xe](https://img.youtube.com/vi/[thay-mã-ID-video-youtube-vào-đây]/0.jpg)](https://www.youtube.com/watch?v=[thay-mã-ID-video-youtube-vào-đây])
-
-*(Ví dụ: Nếu link YouTube của bạn là `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, hãy thay `dQw4w9WgXcQ` vào 2 vị trí trong ngoặc vuông ở trên).*
+[![Demo Hệ thống Bãi đỗ xe]
 
 ---
 
